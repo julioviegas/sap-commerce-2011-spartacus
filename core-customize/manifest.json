@@ -510,10 +510,6 @@
        "contextPath":"/occ"
       },
       {
-       "name":"mediaweb",
-       "contextPath":"/medias"
-      },
-      {
        "name":"merchandisingcmswebservices",
        "contextPath":"/merchandisingcmswebservices"
       },
