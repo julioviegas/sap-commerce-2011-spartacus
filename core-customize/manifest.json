@@ -586,7 +586,7 @@
  				 "contextPath":"/yacceleratorstorefront"
  			  },
         {
- 				 "name":"yacceleratorstorefront",
+ 				 "name":"yb2bacceleratorstorefront",
  				 "contextPath":"/yb2bacceleratorstorefront"
  			  },
         {
@@ -604,10 +604,6 @@
         {
  				 "name":"b2bpunchout",
  				 "contextPath":"/b2bpunchout"
- 			  },
-        {
- 				 "name":"couponwebservices",
- 				 "contextPath":"/couponwebservices"
  			  },
         {
  				 "name":"couponwebservices",
