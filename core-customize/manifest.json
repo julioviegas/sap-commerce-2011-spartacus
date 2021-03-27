@@ -483,12 +483,8 @@
 				"contextPath":"/xyformsweb"
       },
 
-      
 
-      {
-       "name":"acceleratorservices",
-       "contextPath":"/acceleratorservices"
-      },
+
       {
        "name":"accountsummaryaddon",
        "contextPath":"/accountsummaryaddon"
