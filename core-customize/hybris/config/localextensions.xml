@@ -27,7 +27,7 @@
     <extension name='multicountrysampledataaddon' />
     <extension name='wishlist' />
     <extension name='pcmbackofficesamplesaddon' />
-    <extension name='classificationgroupsservices' />
+
 
     <extension name='pcmbackoffice' />
     <extension name='backoffice' />
