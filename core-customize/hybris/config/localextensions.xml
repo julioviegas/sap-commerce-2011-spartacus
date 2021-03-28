@@ -27,7 +27,8 @@
     <extension name='multicountrysampledataaddon' />
     <extension name='wishlist' />
     <extension name='pcmbackofficesamplesaddon' />
-
+    <extension name='mediaconversionbackoffice' />
+    <extension name='patchesbackoffice' />
 
     <extension name='pcmbackoffice' />
     <extension name='backoffice' />
@@ -180,7 +181,8 @@
     <extension name='deltadetection' />
     <extension name='embeddedserver' />
     <extension name='groovynature' />
-
+    <extension name='mediaconversion' />
+    <extension name='patches' />
 
     <extension name='springintegrationlibs' />
     <extension name='tomcatembeddedserver' />
