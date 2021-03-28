@@ -216,8 +216,12 @@
     <extension name='stocknotificationaddon' />
     <extension name='stocknotificationfacades' />
     <extension name='stocknotificationservices' />
-
-
+    <extension name='subscriptionbundlebackoffice' />
+    <extension name='subscriptionbundlefacades' />
+    <extension name='subscriptionbundleservices' />
+    <extension name='subscriptionbackoffice' />
+    <extension name='subscriptionfacades' />
+    <extension name='subscriptionservices' />
 
 
     <extension name='textfieldconfiguratortemplateaddon' />
